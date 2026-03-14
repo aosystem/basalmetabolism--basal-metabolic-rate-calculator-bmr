@@ -6,6 +6,9 @@ A lightweight and precise Basal Metabolic Rate (BMR) calculator built with **Flu
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6752901762)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/brobVdjZq98/0.jpg)](https://www.youtube.com/watch?v=brobVdjZq98)
+
 ## 🌟 Key Features
 - **Accurate Calculation:** Uses standardized formulas to determine BMR.
 - **Cross-Platform:** High-performance UI/UX powered by Flutter for both Android and iOS.
